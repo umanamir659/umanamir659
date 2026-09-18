@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋, I'm Uman Amir
 
-<!--
-**umanamir659/umanamir659** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 University Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+💻 C++ | Python | OOP | DSA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Exploring Generative AI
+
+🌱 Currently learning Data Structures & Algorithms
+
+## 🛠️ Skills
+
+- C++
+- Python
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- Git & GitHub
+- Generative AI
+
+## 🚀 Projects
+
+- Generative AI Chatbot
+- C++ & OOP Projects
+- DSA Practice
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- Python
+- Generative AI
+
+---
+
+⭐ Thanks for visiting my profile!
